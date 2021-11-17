@@ -1,0 +1,31 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Business",
+      "Health Care Management"
+    ],
+    [
+      "Health and Medicine",
+      "Public Health"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "e9f1bf72-c40e-b762-0f5a-6cf11e06d9bd"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "GlobalHealth Lab",
+  "course_description": "This course pairs faculty-mentored student teams with enterprises on the front lines of health care delivery in sub-Saharan Africa and South Asia. To tackle specific barriers identified by each partnering organization, the course is built around custom-designed projects in strategy, business model innovation, operations, marketing, and technology. Class sessions include interactive cases, practical exercises, and lively conversations with experts, all designed to support project work before, during, and after the intensive two-week onsite collaboration with entrepreneurs, leaders, staff, and stakeholders in the setting. Course assignments include a portfolio of host deliverable, a foundational toolkit designed to support each project, and a distillation of learning from the field.\n\n##### Acknowledgements\n\nSpecial thanks is given to [Imperial Health Sciences, Unjani Clinic](https://www.msh.org/partner/imperial-health-sciences) and [L V Prasad Eye Institute](http://www.lvpei.org/index.php) for allowing their organizations to be featured in the sample student projects on this course site.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.S07",
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
